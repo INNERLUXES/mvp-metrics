@@ -1,0 +1,6 @@
+# Every change is reviewed by a maintainer.
+* @innerluxesdev
+
+# How each metric is counted and how the inputs are checked decide every number the tool prints; changes need extra care.
+/src/metrics.js @innerluxesdev
+/src/input.js @innerluxesdev

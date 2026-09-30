@@ -1,0 +1,8 @@
+{
+  "signup": "signed_up",
+  "activation": { "event": "created_booking_page", "within_days": 7 },
+  "retention": { "event": "opened_dashboard", "weeks": [1, 4] },
+  "paid": { "event": "paid" },
+  "targets": { "activation": 0.4, "retention_week_1": 0.35, "retention_week_4": 0.2, "paid": 0.05 },
+  "min_users": 30
+}
